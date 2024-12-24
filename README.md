@@ -42,7 +42,7 @@ The pipeline provides actionable insights, such as:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shoaibahmed4/Essentials-Emporium-End-to-End-ETL-and-Analytics-using-Python-and-SQL.git
    ```
 2. Open the Jupyter Notebook:
    ```bash
